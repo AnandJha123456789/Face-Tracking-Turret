@@ -67,7 +67,7 @@ A computer vision project that tracks a human face in real-time using a DNN and 
 ### 1. Python Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/face-tracking-turret.git
+git clone https://github.com/AnandJha123456789/Face-Tracking-Turret.git
 cd face-tracking-turret
 pip install -r requirements.txt
 ```
